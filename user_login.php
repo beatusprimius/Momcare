@@ -59,7 +59,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
                 <a href="about.html">About</a>
                 <a href="products.html">Products</a>
                 <a href="contact.html">Contact</a>
-                <a href="account.html">Account</a>
+                <a href="login.php">Account</a>
                 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                     <img src="img/menu-01.png">
                 </a>
